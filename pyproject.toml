@@ -1,0 +1,18 @@
+[project]
+name = "busca-cep"
+version = "0.1.0"
+description = "Buscador de endereços por CEP via linha de comando"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "argparse>=1.4.0",
+    "pandas>=3.0.6",
+    "requests>=2.34.2",
+]
+
+[project.scripts]
+busca-cep = "busca_cep.main:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
