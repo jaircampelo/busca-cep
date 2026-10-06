@@ -7,6 +7,8 @@ requires-python = ">=3.10"
 dependencies = [
     "requests>=2.34.2",
 ]
+license = "MIT"
+license-files = ["LICENSE"] 
 
 [project.scripts]
 busca-cep = "busca_cep.main:main"
