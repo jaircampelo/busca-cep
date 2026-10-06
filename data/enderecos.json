@@ -1,0 +1,28 @@
+[
+    {
+        "cep": "68600000",
+        "address_type": "",
+        "address_name": "",
+        "address": "",
+        "state": "PA",
+        "district": "",
+        "lat": "-1.0616193",
+        "lng": "-46.7830109",
+        "city": "Bragança",
+        "city_ibge": "1501709",
+        "ddd": "91"
+    },
+    {
+        "cep": "66640365",
+        "address_type": "Rua",
+        "address_name": "Dez de Maio",
+        "address": "Rua Dez de Maio",
+        "state": "PA",
+        "district": "Mangueirão",
+        "lat": "-1.3840195",
+        "lng": "-48.4356437",
+        "city": "Belém",
+        "city_ibge": "1501402",
+        "ddd": "91"
+    }
+]
